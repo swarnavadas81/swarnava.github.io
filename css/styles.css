@@ -1,0 +1,138 @@
+body
+{
+background-color: grey;
+  margin: 0;
+  text-align: center;
+  font-family: monospace;
+}
+h1
+{
+  color:#D61C4E ;
+  font-size:30px;
+
+
+
+
+
+}
+.skill-row
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 5;
+
+}
+.dog
+{
+  width: 10%;
+
+}
+
+}
+.rename
+{
+  width: 20%;
+  margin: 0 auto 0 auto;
+
+}
+.HERO
+{
+  font-size: 15px;
+  font-weight: bolder;
+
+}
+.zero
+{
+  font-size: 15x;
+  font-weight:bolder;
+}
+
+.skills
+{
+  background-color:#CFFF8D;
+  margin-bottom: 50px;
+}
+
+.code
+{
+font-weight: bolder;
+font-size: 20px;
+}
+.computer-img{
+  width: 35%;
+float: right;
+margin-left: 20px;
+
+
+}
+.left
+{
+
+width: 20%;
+float: left;
+margin-right: 30px;
+
+}
+.left1
+{
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+  padding-bottom: 30px;
+
+
+
+
+
+}
+
+.language
+{
+  width: 190px;
+}
+h2
+{
+  color: #645CAA;
+  font-size: 40px;
+  font-weight:bold;
+text-decoration: underline;
+
+}
+h3
+
+{
+  color: black;
+  font-size: 20px;
+
+}
+
+
+.top-container
+{
+  background-color: #425F57;
+   position: relative;
+   padding-bottom: : 300px;
+
+
+}
+
+.para
+{
+  font-size: 15px;
+  color: black;
+  font-weight: bolder;
+   font-family: serif;
+}
+
+
+.middle-container
+{
+  background-color: #A8E890;
+
+
+}
+.bottom-container
+{
+  background-color: #CFFF8D;
+}
